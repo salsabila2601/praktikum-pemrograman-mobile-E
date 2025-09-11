@@ -5,7 +5,7 @@ Nama : Salsabila Alya Putri Waluyo
 
 NIM : 230605110015
 
-Kelas :Praktikum Pemrograman Mobile-E  
+Kelas : Praktikum Pemrograman Mobile-E  
 ## 📅 Jadwal Praktikum : Kamis (14.00 - 15.40)
 
 | No | Tanggal Praktikum | Minggu ke | Praktikum ke | Topik Praktikum           | Link Google Drive | Link GitHub |
