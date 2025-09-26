@@ -1,7 +1,7 @@
 🧸🎀Praktikum Pemrograman Mobile-E🍰🍓
 
 Pengumpulan Tugas Praktikum Pemrograman Mobile
-UI/UX & Figma Explorer 
+
 
 Identitas Praktikan
 
