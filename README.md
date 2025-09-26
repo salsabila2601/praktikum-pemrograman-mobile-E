@@ -1,4 +1,4 @@
-🧸🎀Praktikum-Pemrograman-Mobile-E🍰🍓
+🧸🎀Praktikum Pemrograman Mobile-E🍰🍓
 Pengumpulan Tugas Praktikum Pemrograman Mobile
 
 Identitas Praktikan
