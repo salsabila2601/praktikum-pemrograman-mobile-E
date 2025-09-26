@@ -1,7 +1,10 @@
 🧸🎀Praktikum Pemrograman Mobile-E🍰🍓
+
 Pengumpulan Tugas Praktikum Pemrograman Mobile
+UI/UX & Figma Explorer 
 
 Identitas Praktikan
+
 👩🏻‍💻 Nama: Salsabila Alya Putri Waluyo
 
 🆔 NIM: 230605110015
