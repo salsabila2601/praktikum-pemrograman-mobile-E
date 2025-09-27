@@ -6,17 +6,17 @@
 
 ## 👩🏻‍💻 Identitas Praktikan
 
-* 👩🏻‍💻 **Nama**: Salsabila Alya Putri Waluyo
-* 🆔 **NIM**: 230605110015
-* 📚 **Kelas**: Praktikum Pemrograman Mobile - E
-* 🗓️ **Jadwal**: Kamis, ⏰ 14.00 – 15.40
+* 👩🏻‍💻 **Nama** : Salsabila Alya Putri Waluyo
+* 🆔 **NIM** : 230605110015
+* 📚 **Kelas** : Praktikum Pemrograman Mobile - E
+* 🗓️ **Jadwal** : Kamis, ⏰ 14.00 – 15.40
 
 ---
 
 ## 📖 Deskripsi
 
 Dokumen ini berisi daftar pengumpulan tugas praktikum mata kuliah **Pemrograman Mobile**.
-Seluruh tugas dikerjakan sesuai modul pertemuan, dengan hasil berupa:
+Seluruh tugas dikerjakan sesuai modul pertemuan, dengan hasil berupa :
 
 * 📂 **File laporan/hasil praktikum** (Google Drive)
 * 💻 **Source code project** (GitHub Repository)
@@ -24,7 +24,9 @@ Seluruh tugas dikerjakan sesuai modul pertemuan, dengan hasil berupa:
 ---
 
 🌸 **Universitas Islam Negeri Maulana Malik Ibrahim Malang**
+
 💻 **Program Studi Teknik Informatika**
+
 📅 **Semester 5 – Tahun 2025**
 
 
